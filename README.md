@@ -1,2 +1,4 @@
 # Esericizi_Reverse_Enegineering
-Esercitazioni di Reverse Engineering su codici compilati e strippati
+Esercitazioni di Reverse Engineering su codici compilati e strippati. 
+
+*Tool utilizzati* : Ghidra
